@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: Python",
+  "description": "My first Python app/site on Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/SFoskitt/python_site.git",
+  "keywords": ["python", "flask" ]
+}
